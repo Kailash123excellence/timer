@@ -1,0 +1,35 @@
+body{
+  background-image: linear-gradient(to right, rgb(210, 64, 98),rgb(132, 221, 137));
+}
+.BtnCounter{
+  height: 40px;
+  text-align: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-weight: bold;
+  font-size: 20px;
+  margin: 50px;
+  border-radius: 10px;
+  border: none;
+  background-image: linear-gradient(to right, red, yellow);
+}
+
+.background{
+  background-image:linear-gradient(to right, red,yellow);
+  height: 40px;
+  font-weight: bold;
+  font-size: 15px;
+}
+
+.timer{
+  font-size: 25px;
+  font-weight: bold;
+  color: white;
+}
+.header{
+  background-image:linear-gradient(to right, rgb(210, 87, 53), white,green) ;
+}
+.number{
+  margin-left: 40px;
+  font-size: 20px;
+  font-weight: bold;
+}
